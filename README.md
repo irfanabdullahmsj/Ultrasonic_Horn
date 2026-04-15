@@ -21,4 +21,3 @@ Building a quieter system is easy. Building a **reliable, detectable, and scalab
 
 This project was a step toward exploring that challenge.
 
-#ComputerVision #EmbeddedSystems #Automation #IoT #Engineering #Innovation #MATLAB #Arduino
