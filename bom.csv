@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"M1, M2, M3",3," Vibration Motor"
+"PING1, PING2, PING3",3," Ultrasonic Distance Sensor"
+"T1, T2, T3",3," NPN Transistor (BJT)"
